@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/githubprabin143/ReactPushNotification/static/js/main.0ec912e2.chunk.js",
+    "main.js.map": "/githubprabin143/ReactPushNotification/static/js/main.0ec912e2.chunk.js.map",
+    "runtime-main.js": "/githubprabin143/ReactPushNotification/static/js/runtime-main.cbaac186.js",
+    "runtime-main.js.map": "/githubprabin143/ReactPushNotification/static/js/runtime-main.cbaac186.js.map",
+    "static/css/2.7fbed7ba.chunk.css": "/githubprabin143/ReactPushNotification/static/css/2.7fbed7ba.chunk.css",
+    "static/js/2.c3d8b72d.chunk.js": "/githubprabin143/ReactPushNotification/static/js/2.c3d8b72d.chunk.js",
+    "static/js/2.c3d8b72d.chunk.js.map": "/githubprabin143/ReactPushNotification/static/js/2.c3d8b72d.chunk.js.map",
+    "index.html": "/githubprabin143/ReactPushNotification/index.html",
+    "precache-manifest.eee83383e91c9d3dc146642be1d5eef0.js": "/githubprabin143/ReactPushNotification/precache-manifest.eee83383e91c9d3dc146642be1d5eef0.js",
+    "service-worker.js": "/githubprabin143/ReactPushNotification/service-worker.js",
+    "static/css/2.7fbed7ba.chunk.css.map": "/githubprabin143/ReactPushNotification/static/css/2.7fbed7ba.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbaac186.js",
+    "static/css/2.7fbed7ba.chunk.css",
+    "static/js/2.c3d8b72d.chunk.js",
+    "static/js/main.0ec912e2.chunk.js"
+  ]
+}
