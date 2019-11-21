@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/ReactPushNotification/static/js/main.98d93c2a.chunk.js",
-    "main.js.map": "/ReactPushNotification/static/js/main.98d93c2a.chunk.js.map",
+    "main.js": "/ReactPushNotification/static/js/main.8b8ad17a.chunk.js",
+    "main.js.map": "/ReactPushNotification/static/js/main.8b8ad17a.chunk.js.map",
     "runtime-main.js": "/ReactPushNotification/static/js/runtime-main.5e59caf1.js",
     "runtime-main.js.map": "/ReactPushNotification/static/js/runtime-main.5e59caf1.js.map",
     "static/css/2.7fbed7ba.chunk.css": "/ReactPushNotification/static/css/2.7fbed7ba.chunk.css",
     "static/js/2.4d9d89aa.chunk.js": "/ReactPushNotification/static/js/2.4d9d89aa.chunk.js",
     "static/js/2.4d9d89aa.chunk.js.map": "/ReactPushNotification/static/js/2.4d9d89aa.chunk.js.map",
     "index.html": "/ReactPushNotification/index.html",
-    "precache-manifest.6f65ec12097ace7b2e81f21ba4cc6af4.js": "/ReactPushNotification/precache-manifest.6f65ec12097ace7b2e81f21ba4cc6af4.js",
+    "precache-manifest.9c26be700e27f4a043c30df3b10489f7.js": "/ReactPushNotification/precache-manifest.9c26be700e27f4a043c30df3b10489f7.js",
     "service-worker.js": "/ReactPushNotification/service-worker.js",
     "static/css/2.7fbed7ba.chunk.css.map": "/ReactPushNotification/static/css/2.7fbed7ba.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.5e59caf1.js",
     "static/css/2.7fbed7ba.chunk.css",
     "static/js/2.4d9d89aa.chunk.js",
-    "static/js/main.98d93c2a.chunk.js"
+    "static/js/main.8b8ad17a.chunk.js"
   ]
 }
