@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/githubprabin143/ReactPushNotification/static/js/main.0ec912e2.chunk.js",
-    "main.js.map": "/githubprabin143/ReactPushNotification/static/js/main.0ec912e2.chunk.js.map",
-    "runtime-main.js": "/githubprabin143/ReactPushNotification/static/js/runtime-main.cbaac186.js",
-    "runtime-main.js.map": "/githubprabin143/ReactPushNotification/static/js/runtime-main.cbaac186.js.map",
-    "static/css/2.7fbed7ba.chunk.css": "/githubprabin143/ReactPushNotification/static/css/2.7fbed7ba.chunk.css",
-    "static/js/2.c3d8b72d.chunk.js": "/githubprabin143/ReactPushNotification/static/js/2.c3d8b72d.chunk.js",
-    "static/js/2.c3d8b72d.chunk.js.map": "/githubprabin143/ReactPushNotification/static/js/2.c3d8b72d.chunk.js.map",
-    "index.html": "/githubprabin143/ReactPushNotification/index.html",
-    "precache-manifest.eee83383e91c9d3dc146642be1d5eef0.js": "/githubprabin143/ReactPushNotification/precache-manifest.eee83383e91c9d3dc146642be1d5eef0.js",
-    "service-worker.js": "/githubprabin143/ReactPushNotification/service-worker.js",
-    "static/css/2.7fbed7ba.chunk.css.map": "/githubprabin143/ReactPushNotification/static/css/2.7fbed7ba.chunk.css.map"
+    "main.js": "/ReactPushNotification/static/js/main.cd82bd93.chunk.js",
+    "main.js.map": "/ReactPushNotification/static/js/main.cd82bd93.chunk.js.map",
+    "runtime-main.js": "/ReactPushNotification/static/js/runtime-main.5e59caf1.js",
+    "runtime-main.js.map": "/ReactPushNotification/static/js/runtime-main.5e59caf1.js.map",
+    "static/css/2.7fbed7ba.chunk.css": "/ReactPushNotification/static/css/2.7fbed7ba.chunk.css",
+    "static/js/2.4d9d89aa.chunk.js": "/ReactPushNotification/static/js/2.4d9d89aa.chunk.js",
+    "static/js/2.4d9d89aa.chunk.js.map": "/ReactPushNotification/static/js/2.4d9d89aa.chunk.js.map",
+    "index.html": "/ReactPushNotification/index.html",
+    "precache-manifest.351e0c6a7acd84704d94b1176526fd03.js": "/ReactPushNotification/precache-manifest.351e0c6a7acd84704d94b1176526fd03.js",
+    "service-worker.js": "/ReactPushNotification/service-worker.js",
+    "static/css/2.7fbed7ba.chunk.css.map": "/ReactPushNotification/static/css/2.7fbed7ba.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbaac186.js",
+    "static/js/runtime-main.5e59caf1.js",
     "static/css/2.7fbed7ba.chunk.css",
-    "static/js/2.c3d8b72d.chunk.js",
-    "static/js/main.0ec912e2.chunk.js"
+    "static/js/2.4d9d89aa.chunk.js",
+    "static/js/main.cd82bd93.chunk.js"
   ]
 }
