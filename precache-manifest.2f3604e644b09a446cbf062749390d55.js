@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe4315c75d45a3e6d2e3689ae81d18fd",
+    "revision": "958b072f7e81f8394d1aca610c61046c",
     "url": "/ReactPushNotification/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactPushNotification/static/js/2.4d9d89aa.chunk.js"
   },
   {
-    "revision": "6bb384af9e74949cb396",
-    "url": "/ReactPushNotification/static/js/main.8b8ad17a.chunk.js"
+    "revision": "8148383530cf19ea414c",
+    "url": "/ReactPushNotification/static/js/main.5a8b9183.chunk.js"
   },
   {
     "revision": "da5a4b1cff08f5d5275e",
